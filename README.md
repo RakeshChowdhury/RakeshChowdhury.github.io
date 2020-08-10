@@ -1,2 +1,2 @@
-# RakeshChowdhury.github.io
-Blog
+# Rakesh Chowdhury
+[Checkout Blog](https://rakeshchowdhury.github.io/blog/)
